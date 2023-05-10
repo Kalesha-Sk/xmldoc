@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Conference muted="false" enterSound="beep:1" exitSound="beep:2" startConferenceOnEnter="true" endConferenceOnExit="false">
-    {{ Conference Name }}
-  </Conference>
+  <Speak>Thank you for calling the Plivo conference line.</Speak>
+  <Dial>
+    <Conference>My Conference</Conference>
+  </Dial>
 </Response>
+
 
