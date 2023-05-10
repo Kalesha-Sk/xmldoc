@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial>
-    <Number>+91 9515571383</Number>
-  </Dial>
+  <Conference muted="false" enterSound="beep:1" exitSound="beep:2" startConferenceOnEnter="true" endConferenceOnExit="false">
+    {{ Conference Name }}
+  </Conference>
 </Response>
+
