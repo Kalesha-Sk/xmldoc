@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Speak>Thank you for calling the Plivo conference line.</Speak>
-  <Conference>My Conference</Conference>
+  <Speak>Thank you for calling</Speak>
+  <Conference muted="false" enterSound="beep:2" exitSound="beep:2" startConferenceOnEnter="true" endConferenceOnExit="false">My Conference</Conference>
 </Response>
-
 
