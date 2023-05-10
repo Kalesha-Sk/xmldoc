@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Speak>Thank you for calling the Plivo conference line.</Speak>
-  <Dial>
-    <Conference>My Conference</Conference>
-  </Dial>
+  <Conference>My Conference</Conference>
 </Response>
 
 
