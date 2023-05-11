@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Speak>Thank you for calling</Speak>
-  <Dial duration="3600"></Dial>
+  <Redirect></Redirect>
 </Response>
 
