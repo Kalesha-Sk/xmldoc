@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Speak>Thank you for calling</Speak>
-  <Conference muted="false" enterSound="beep:2" exitSound="beep:2" startConferenceOnEnter="true" endConferenceOnExit="false">My Conference</Conference>
+  <Speak>Thank you for calling, You will now be placed into a conference</Speak>
+  <Conference muted="false" enterSound="beep:1" exitSound="beep:1" startConferenceOnEnter="true" endConferenceOnExit="false">My Conference</Conference>
 </Response>
 
