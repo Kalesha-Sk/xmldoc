@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response>
+<!-- <Response>
   <Speak>Thank you for calling, You will now be placed into a conference</Speak>
   <Conference muted="false" enterSound="beep:1" exitSound="beep:1" startConferenceOnEnter="true" endConferenceOnExit="false">My Conference</Conference>
+</Response> -->
+<Response>
+  <Dial callerid="+1 320-233-9178">
+    <Number>+91 9032363049</Number>
+  </Dial>
 </Response>
 
