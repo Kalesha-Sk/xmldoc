@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Response>
+    <Speak>Thank you for calling</Speak>
     <Dial>
         <Number>+1 866-880-6099</Number>
     </Dial>
