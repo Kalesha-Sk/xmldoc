@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Speak>Thank you for calling</Speak>
-  <Redirect></Redirect>
+  <Dial callerid="+1 417-212-8972">
+    <Number>+91 9515571383</Number>
+  </Dial>
 </Response>
 
