@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
+  <Dial callerid="so and so">
+    <Number>+91 7702546926</Number>
+  </Dial>
   <Dial callerid="so and so">    
     <Number>+91 9515571383</Number>
   </Dial>
-  <Dial callerid="so and so">
-    <Number>+91 7702546926</Number>
-  </Dial> 
 </Response>
 
