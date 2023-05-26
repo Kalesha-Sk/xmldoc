@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>  
-  <Speak>Thank you for calling, You will now be placed into a conference</Speak>
+<!--   <Speak>Thank you for calling, You will now be placed into a conference</Speak> -->
   <Dial>
     <Number>+919515571383</Number>
     <Conference muted="false" enterSound="beep:1" exitSound="beep:1" startConferenceOnEnter="true" endConferenceOnExit="true">My Conference</Conference>
