@@ -3,6 +3,6 @@
     <Dial callerid="so and so">    
       <Number>+91 9515571383</Number>
     </Dial>
- 
+    <Conference muted="false" enterSound="beep:1" exitSound="beep:1" startConferenceOnEnter="true" endConferenceOnExit="true">My Conference</Conference> 
 </Response>
 
