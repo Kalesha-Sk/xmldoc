@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Conference muted="false" enterSound="beep:1" exitSound="beep:1" startConferenceOnEnter="true" endConferenceOnExit="true">
+  
     <Dial callerid="so and so">
       <Number>+91 9440786589</Number>
     </Dial>
     <Dial callerid="so and so">    
       <Number>+91 9515571383</Number>
     </Dial>
-  </Conference>
+ 
 </Response>
 
